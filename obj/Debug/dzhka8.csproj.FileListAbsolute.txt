@@ -1,0 +1,7 @@
+C:\Users\ПетренковН\source\repos\dzhka8\dzhka8\obj\Debug\dzhka8.csprojResolveAssemblyReference.cache
+C:\Users\ПетренковН\source\repos\dzhka8\dzhka8\obj\Debug\dzhka8.csproj.CoreCompileInputs.cache
+C:\Users\ПетренковН\source\repos\dzhka8\dzhka8\bin\Debug\dzhka8.exe.config
+C:\Users\ПетренковН\source\repos\dzhka8\dzhka8\bin\Debug\dzhka8.exe
+C:\Users\ПетренковН\source\repos\dzhka8\dzhka8\bin\Debug\dzhka8.pdb
+C:\Users\ПетренковН\source\repos\dzhka8\dzhka8\obj\Debug\dzhka8.exe
+C:\Users\ПетренковН\source\repos\dzhka8\dzhka8\obj\Debug\dzhka8.pdb
